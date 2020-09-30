@@ -1,4 +1,4 @@
-# Configure lb1.example.com
+# Configure lb.example.com
 
 ## Scenario
 The VM you are configuring will be used as a loadbalancer. The software which you will be using in order to achieve that is HAProxy.
