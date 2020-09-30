@@ -17,5 +17,5 @@ Since you have just installed your VM guest machines, they have no software inst
 * Create a simple BASH script, that uses Ansible ad-hoc commands to do the following:
 	* Import your public SSH key to the user Ansible.
 	* Install python3 on all remote hosts.
-	* Create user "ansible" on all remote hosts (web1.example.com, web2.example.com and db.example.com).
+	* Create user "ansible" on all remote hosts (lb.example.com, web1.example.com, web2.example.com and db.example.com).
 	* Add the user "ansible" to sudoers and enable it to login as root without using password.
